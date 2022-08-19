@@ -1,0 +1,10 @@
+accuracy_train0.10116279069767442
+accuracy_test0.1
+accuracy_train0.10930232558139535
+accuracy_test0.08
+accuracy_train0.13488372093023257
+accuracy_test0.12
+accuracy_train0.15232558139534882
+accuracy_test0.13
+accuracy_train0.1313953488372093
+accuracy_test0.11
